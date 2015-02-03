@@ -1,12 +1,7 @@
 # reliable-transmit
-Reliable transmission over noisy UDP channel
+Reliable transmission over noisy UDP channel 
 
-README for CS438 Spring 2013 MP3
-=================================
-
-### Member: Tao Li, Yixing Lao
-
-<br />
+(UIUC CS438 Spring 2013 MP3, Member: Tao Li, Yixing Lao)
 
 1. References
 =============
